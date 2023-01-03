@@ -4,4 +4,4 @@
 
 - If you export KUBECONFIG before running terraform apply, your deployment won't have a node to rest on after deploying therefore, it takes a lot of time and end up not being accessible.
 
-- This project is also dependent on my previous project https://github.com/Calebio/terraform-aws
+- This project is also dependent on the terraform remote state of my previous project.
